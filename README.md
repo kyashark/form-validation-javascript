@@ -5,4 +5,5 @@
 - Ensures required fields are filled and data formats are correct
 
 
-![form](https://github.com/kyashark/UI-Components/assets/152844822/925da579-63cf-4355-8cdd-fb16006ad74b)
+
+![Screenshot 2024-09-22 204211](https://github.com/user-attachments/assets/17c1f9c6-b1fb-4050-89ba-52272cbd7ff1)
